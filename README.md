@@ -21,4 +21,4 @@
 欢迎将此项目中的任何代码加入您的项目！**
 
 **如若在使用中遇到任何错误或想提出建议，请联系**
-  suyuF@tutamail.com
+  suyuf@tutamail.com
